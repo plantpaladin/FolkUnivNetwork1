@@ -1,0 +1,14 @@
+﻿Build started 2017-11-01 14:25:39.
+     1>Project "C:\Users\elevx\Documents\Visual Studio 2015\Projects\Server\Server\Server.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"D:\SFML-2.4.2\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt server_main.cpp
+         server_main.cpp
+     1>c:\users\elevx\documents\visual studio 2015\projects\server\server\server_main.cpp(34): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\elevx\Documents\Visual Studio 2015\Projects\Server\Debug\Server.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\SFML-2.4.2\lib" "sfml-system-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\elevx\Documents\Visual Studio 2015\Projects\Server\Debug\Server.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\elevx\Documents\Visual Studio 2015\Projects\Server\Debug\Server.lib" /MACHINE:X86 Debug\server_main.obj
+         Server.vcxproj -> C:\Users\elevx\Documents\Visual Studio 2015\Projects\Server\Debug\Server.exe
+     1>Done Building Project "C:\Users\elevx\Documents\Visual Studio 2015\Projects\Server\Server\Server.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.88
