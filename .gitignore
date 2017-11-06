@@ -1,0 +1,13 @@
+
+Server/.vs/Chat Room/v15/.suo
+*.db
+*.tlog
+*.vcxproj
+*.db-shm
+Server/Client/Client.vcxproj
+*.vcxproj
+*.log
+*.pdb
+*.idb
+*.db-wal
+*.ipch
